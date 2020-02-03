@@ -1,5 +1,5 @@
 
-package tutorialJava.capitulo6b_Videojuegos.Arkanoid.version01;
+package Arkanoid.version01;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
